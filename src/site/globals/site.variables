@@ -5,9 +5,9 @@
 /*---  Colors  ---*/
 @red: #FF2F2F;
 @orange: #FF860C;
-@yellow: #FFEE12;
+@yellow: #FDC202;
 @olive: #CCE31B;
-@green: #27E24C;
+@green: #24D144;
 @teal: #00B5AD;
 @blue: #008DFF;
 @violet: #7C42FA;
