@@ -3,7 +3,7 @@
 *******************************/
 
 /*---  Colors  ---*/
-@red: #DB2828;
+@red: #FF2F2F;
 @orange: #FF860C;
 @yellow: #FFEE12;
 @olive: #CCE31B;
