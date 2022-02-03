@@ -4,15 +4,15 @@
 
 /*---  Colors  ---*/
 @red: #DB2828;
-@orange: #F2711C;
-@yellow: #FBBD08;
-@olive: #B5CC18;
+@orange: #FF860C;
+@yellow: #FFEE12;
+@olive: #CCE31B;
 @green: #21BA45;
 @teal: #00B5AD;
 @blue: #008DFF;
-@violet: #6435C9;
+@violet: #7C42FA;
 @purple: #8C64DD;
-@pink: #E03997;
-@brown: #A5673F;
-@grey: #767676;
-@black: #1B1C1D;
+@pink: #FF69B4;
+@brown: #BF7649;
+@grey: #666666;
+@black: #000000;
