@@ -1,0 +1,14 @@
+{
+  "name": "lighthouse-fomantic",
+  "version": "1.0.0",
+  "description": "Fomantic Theme for Project Lighthouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fomantic-ui": "^2.8.8"
+  }
+}
