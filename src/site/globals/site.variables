@@ -3,16 +3,21 @@
 *******************************/
 
 /*---  Colors  ---*/
-@red: #FF2F2F;
+@red: #f12c2c;
 @orange: #FF860C;
 @yellow: #FDC202;
 @olive: #CCE31B;
-@green: #24D144;
+@green: #23c841;
 @teal: #00B5AD;
-@blue: #008DFF;
+@blue: #0e91f5;
 @violet: #7C42FA;
 @purple: #8C64DD;
 @pink: #FF69B4;
 @brown: #BF7649;
 @grey: #666666;
-@black: #000000;
+@black: #121212;
+
+@solidWhiteBorderColor: #222222;
+@linkColor: @blue;
+
+@fontName: 'Poppins';
